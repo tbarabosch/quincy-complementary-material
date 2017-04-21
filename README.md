@@ -30,4 +30,4 @@ Our main intention was not writing general rules but rather rules for ensuring h
 
 The yara signatures are unfortunately incomplete. The rules of some families could not be published due to their
 classification. However, we might share them on a 1-to-1 basis depending on your reputation and/or organization.
-Contact us for more information (thomas.barabosch at fkie.fraunhofer.de).
+Contact us for more information (thomas.barabosch at gmail.com).
